@@ -1,3 +1,22 @@
 github.com/ultralytics/ultralytics
-github.com/ChaofWang/Awesome-Super-Resolution/blob/master/2022_papers.md
-github.com/liuwei16/CSP
+
+https://github.com/Coloquinte/torchSR -> per la super risoluzione
+
+YOLO -> Dataset Persone me lo manda il professore
+
+
+si riducono piccole 
+
+
+prendo una rete che fa risolzuoine da piccole a grandi
+
+YOLO su piccole  - originali - grandi 
+
+Bounding box di yolo e confrontarle con le bounding box del dataset
+
+Valuta una intersect almeno un 50% 
+
+
+nuovo dataset
+test per addestrare
+validation per testare
